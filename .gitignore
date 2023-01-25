@@ -131,3 +131,12 @@ dmypy.json
 
 # Apple
 *.DS_Store
+
+# R
+.Rhistory
+
+# Custom
+
+build/*
+build_/*
+data/img/*
