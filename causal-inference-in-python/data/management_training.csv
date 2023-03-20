@@ -1,4 +1,4 @@
-departament_id,intervention,engagement_score,tenure,n_of_reports,gender,role,last_engagement_score,deparament_score,deparament_size
+departament_id,intervention,engagement_score,tenure,n_of_reports,gender,role,last_engagement_score,department_score,department_size
 76,1,0.2773586221959551,6,4,2,4,0.6142610296839072,0.22407651434157,843
 76,1,-0.4496463935390407,4,8,2,4,0.0696355272865804,0.22407651434157,843
 76,1,0.769703440352199,6,4,2,4,0.8669176369460472,0.22407651434157,843
