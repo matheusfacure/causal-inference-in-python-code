@@ -1,4 +1,4 @@
-rest_id,day,month,weeday,weekend,is_holiday,is_dec,is_nov,competitors_price,discounts,sales
+rest_id,day,month,weekday,weekend,is_holiday,is_dec,is_nov,competitors_price,discounts,sales
 0,2016-01-01,1,4,False,True,False,False,2.88,0,79.0
 0,2016-01-02,1,5,True,False,False,False,2.64,0,57.0
 0,2016-01-03,1,6,True,False,False,False,2.08,5,294.0
